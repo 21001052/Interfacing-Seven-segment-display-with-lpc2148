@@ -6,14 +6,14 @@ Name:  THAMARAISELVAN V
 Roll no: 212221230115
 
 
-Date of experiment: 17/11/22
+Date of experiment: 10/11/22
 
 
 
 Ex. No. : 08
 
 
-Date: 17/11/22 
+Date: 10/11/22 
  
 
 ### Aim: To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
