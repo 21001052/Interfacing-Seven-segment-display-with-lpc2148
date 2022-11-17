@@ -98,13 +98,18 @@ unsigned char dig[]={0x88,0xeb,0x4c,0x49,0x2b,0x19,0x18,0xcb,0x8,0x9,0xa,0x38,0x
 ##  Output screen shots :
 
 ### Display off :
+![ex 8 off](https://user-images.githubusercontent.com/94957766/202393815-6d1d7faa-98da-4cfd-943f-d9e9e3f35493.png)
 
 
 ### Display On:
+![ex8](https://user-images.githubusercontent.com/94957766/202394222-02563164-53a9-4b61-a58f-f128f66e6cf7.png)
+
+![ex8 1](https://user-images.githubusercontent.com/94957766/202394295-26bcf123-996e-43c9-a055-b7a4d7da62cc.png)
 
 
 ### Layout Diagram:
 
+![ex8 pdf](https://user-images.githubusercontent.com/94957766/202394332-e5eaf968-c47c-42b5-84f5-0e8e5cca4084.png)
 
 
 ### Result :
